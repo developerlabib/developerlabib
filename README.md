@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Labib
 #### Beginner Web Developer.
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developerlabib) 
 Skills: HTML / CSS
 
 - 🌱 I’m currently learning JavaScript 
@@ -10,9 +10,7 @@ Skills: HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerlabib)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=developerlabib&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developerlabib)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developerlabib&show_icons=true&count_private=true)   
 
 ![GitHub metrics](https://metrics.lecoq.io/developerlabib)  
 
