@@ -1,14 +1,14 @@
 ### Hi there 👋, My name is Labib
 #### Beginner Web Developer.
-![GitHub metrics](https://metrics.lecoq.io/developerlabib) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developerlabib&show_icons=true&count_private=true)
 
- 
+![GitHub metrics](https://metrics.lecoq.io/developerlabib) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developerlabib) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerlabib)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=developerlabib&show_icons=true&count_private=true)   
+   
 
  
 
