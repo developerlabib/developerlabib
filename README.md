@@ -2,7 +2,7 @@
 #### Beginner Web Developer.
 ![GitHub metrics](https://metrics.lecoq.io/developerlabib) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=developerlabib) 
+ 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developerlabib) 
 
